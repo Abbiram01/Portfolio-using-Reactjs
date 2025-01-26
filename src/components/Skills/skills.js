@@ -26,35 +26,35 @@ const Skills = () => {
                   <img src={html} alt="" className="skillBarImg" />
                   <div className="skillBarText">
                     <h2>HTML</h2>
-                    <p>Learn't HTML</p>
+                    // <p>HTML</p>
                   </div>
                </div>
                <div className="skillBar">
                   <img src={css} alt="" className="skillBarImg" />
                   <div className="skillBarText">
                     <h2>CSS</h2>
-                    <p>Learn't CSS</p>
+                    // <p>CSS</p>
                   </div>
                </div>
                <div className="skillBar">
                   <img src={javascript} alt="" className="skillBarImg" />
                   <div className="skillBarText">
                     <h2>JavaScript</h2>
-                    <p>Basics of JavaScript</p>
+                    // <p>JavaScript</p>
                   </div>
                </div>
                <div className="skillBar">
                   <img src={react} alt="" className="skillBarImg" />
                   <div className="skillBarText">
                     <h2>React js</h2>
-                    <p>Basics of Reactjs</p>
+                    // <p>Reactjs</p>
                   </div>
                </div>
                <div className="skillBar">
                   <img src={sql} alt="" className="skillBarImg" />
                   <div className="skillBarText">
                     <h2>SQL</h2>
-                    <p>Learn't SQL</p>
+                    // <p>SQL</p>
                   </div>
                </div>
 
